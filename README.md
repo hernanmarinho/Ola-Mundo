@@ -1,6 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Giy e GitHub
-
+ Primeiro repositóri do curso de Git e GitHub
 
 Repositório criado durante uma aula ao vivo!
 
